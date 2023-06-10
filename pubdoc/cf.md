@@ -27,6 +27,8 @@
     <source src="./combo.webm" type="video/webm">
 </video>
 
+https://github.com/Boros-Tech/CyberwareFighters-Docs/assets/125040847/b1b26520-0ef0-42e3-9062-b8c125eb8b8a
+
 - 精英护盾: 对于boss或者精英敌人,采取精英护盾的设计。在敌人的护盾消耗完之前只会对敌人造成少量的伤害和停顿，不会造成硬直或浮空等效果。击破护盾后即可开启连段，连段结束恢复正常状态后就会回复精英护盾。这并不是什么创新设计，但是这个设计确实能解决以下这些问题:
 
     1, 不用设计全程霸体的Boss,为了不让Boss一碰就倒必然会给Boss一定的霸体设定,或者是给Boss赋予极强的闪避能力。闪避能力又分两种软性闪避和被动闪避,其中软性闪避会造成AI设计困难,而被动闪避如果过于频繁与核心玩法连段系统相冲突(不过也可以作为某些少数几个Boss的特色设计),而全程霸体的Boss会与游戏核心动作连段的玩法冲突。
@@ -39,11 +41,17 @@
     <source src="heat.webm" type="video/webm">
 </video>
 
+https://github.com/Boros-Tech/CyberwareFighters-Docs/assets/125040847/bbf0d284-6695-4847-bef0-423bd91473ac
+
 - 连段方式: 个人比较倾向于传统搓招的方式,但是其他出招方式完全是可以通过义体的差异性来实现。这里展示设计好的钻头武器,它所有的招式都不用搓招的方式来出招，但是也会用到“动作取消”这样的概念。这个例子是想要说明不同风格的动作完全可以通过设计不同义体来实现,比如《香草社》在连段中使用方向键和轻重攻击的形式派生出不同动作的模式也是可以实现的。
 
 <video width="320" height="240" controls>
     <source src="drill.webm" type="video/webm">
 </video>
+
+
+https://github.com/Boros-Tech/CyberwareFighters-Docs/assets/125040847/afe24f04-93d7-4936-9aad-89d06d3e37ea
+
 
 ### 道具系统
 
@@ -56,6 +64,10 @@
 <video width="320" height="240" controls>
     <source src="items.webm" type="video/webm">
 </video>
+
+
+https://github.com/Boros-Tech/CyberwareFighters-Docs/assets/125040847/e569332c-dc5a-4028-bea1-fce1632b022c
+
 
 ### 义体系统
 
@@ -75,6 +87,14 @@
 <video width="320" height="240" controls>
     <source src="neurosama.webm" type="video/webm">
 </video>
+
+
+https://github.com/Boros-Tech/CyberwareFighters-Docs/assets/125040847/c23a6b10-6809-4fda-b746-9ac1319379c0
+
+
+https://github.com/Boros-Tech/CyberwareFighters-Docs/assets/125040847/0b2971fb-03c6-47eb-9c8a-866af30befe2
+
+
 
 ### 创意工坊的支持
 
