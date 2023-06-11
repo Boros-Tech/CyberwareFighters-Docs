@@ -1,4 +1,3 @@
-It is named Cyberware Fighters, the [Steam page](https://store.steampowered.com/app/2461910?beta=0) has been created.
 
 ## Description
 
